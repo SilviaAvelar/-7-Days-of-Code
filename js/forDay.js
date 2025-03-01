@@ -38,5 +38,3 @@ while (tentativas > 0) {
         }
     }
 }
-
-
